@@ -1,1 +1,1 @@
-# atm-management-app
+# atm-management-console-app
